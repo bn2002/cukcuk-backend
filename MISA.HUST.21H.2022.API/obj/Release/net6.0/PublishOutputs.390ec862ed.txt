@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\MISA.HUST.21H.2022.API.exe
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\MISA.HUST.21H.2022.API.dll
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\MISA.HUST.21H.2022.API.deps.json
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\MISA.HUST.21H.2022.API.runtimeconfig.json
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\MISA.HUST.21H.2022.API.pdb
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\Dapper.dll
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\MySqlConnector.dll
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\Project\MISA.HUST.21H.2022\MISA.HUST.21H.2022.API\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.HUST.21H.2022.API", "MISA.HUST.21H.2022.API\MISA.HUST.21H.2022.API.csproj", "{1AD2F7AE-6DC1-402F-8464-7222F4B6AAEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD2F7AE-6DC1-402F-8464-7222F4B6AAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD2F7AE-6DC1-402F-8464-7222F4B6AAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD2F7AE-6DC1-402F-8464-7222F4B6AAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD2F7AE-6DC1-402F-8464-7222F4B6AAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E15C630-21A6-4EE1-83FF-FDDC89063D90}
+	EndGlobalSection
+EndGlobal
